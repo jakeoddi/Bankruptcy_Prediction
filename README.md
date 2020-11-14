@@ -1,6 +1,6 @@
 # Bankruptcy Predictor README
 
-**Authors**: Ben Spilsbury, Jake Oddi
+**Authors**: Jake Oddi, Ben Spilsbury
 
 ## Overview
 
