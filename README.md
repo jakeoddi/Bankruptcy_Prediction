@@ -54,8 +54,8 @@ For next steps, the analysis should be expanded to include more global companies
 
 Please review our full analysis in [our Jupyter Notebook](./Bankruptcy_Predictor.ipynb) or our [presentation](./Bankruptcy_Predictor_Slides.pdf).
 
-For additional info, contact Ben Spilsbury or Jake Oddi at
-[benjamin.spilsbury@gmail.com](mailto:benjamin.spilsbury@gmail.com) or [jakeoddi@gmail.com](mailto:jakeoddi@gmail.com.edu), respectively
+For additional info, contact Jake Oddi or Jake Oddi at
+[jakeoddi@gmail.com](mailto:jakeoddi@gmail.com.edu)
 
 ## Repository Structure
 
